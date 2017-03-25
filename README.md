@@ -31,6 +31,7 @@ func main() {
 * [buffalo][]
 * [echo][]
 * [gin][]
+* [net/http][]
 
 ## Educational Findings
 
@@ -39,3 +40,4 @@ They're all pretty similar, but at least now there will be more Clacks throughou
 [buffalo]: http://gobuffalo.io/
 [echo]: https://echo.labstack.com/
 [gin]: https://gin-gonic.github.io/gin/
+[net/http]: https://golang.org/pkg/net/http/
